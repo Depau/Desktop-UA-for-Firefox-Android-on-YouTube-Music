@@ -16,6 +16,12 @@
 
     "background": {
         "scripts": ["domains.js", "background.js"]
+    },
+
+    "applications": {
+        "gecko": {
+            "id": "yt-music-desktop-ua@depau.eu"
+        }
     }
 
 }
