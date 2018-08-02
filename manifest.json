@@ -1,7 +1,7 @@
 {
-    "description": "Sets the user agent of Firefox Android to Firefox Desktop whilst browsing YouTube Music, so you can stream on mobile with a responsive UI.",
+    "description": "Sets the user agent of Android browser to Desktop browser whilst browsing YouTube Music, so you can stream on mobile with a responsive UI.",
     "manifest_version": 2,
-    "name": "Desktop UA on YT Music for Firefox Android",
+    "name": "Desktop UA on YT Music on Android",
     "version": "1.0",
     "homepage_url": "https://github.com/Depau/Desktop-UA-for-Firefox-Android-on-YouTube-Music",
     "icons": {
